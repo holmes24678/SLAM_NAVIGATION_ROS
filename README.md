@@ -514,6 +514,8 @@ ros2 launch my_robot_bringup navigation_launch.py use_sim_time:=true map_subscri
 ```
 On RVIZ click on 2D post estimate to set the intial pose and 2D goal Pose to set the Goal Point
 
+you can check the Result Here !!!! https://www.linkedin.com/posts/sunil-kumar-chennam-558059148_ros2-humble-slamabrtoolbox-activity-7200394477142753280-Rsyh?utm_source=share&utm_medium=member_android
+
 # If you did not get any error hooray!!!! you have Successfully simulated SLAM and Navigation in Gazebo using ROS
 
 
