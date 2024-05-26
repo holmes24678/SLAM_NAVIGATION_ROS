@@ -1,0 +1,33 @@
+[0.926s] Invoking command in '/home/sherlock/Documents/ros_ws/src/my_robot': PYTHONPATH=/home/sherlock/Documents/ros_ws/build/my_robot/prefix_override:/home/sherlock/Documents/ros_ws/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot build --build-base /home/sherlock/Documents/ros_ws/build/my_robot/build install --record /home/sherlock/Documents/ros_ws/build/my_robot/install.log --single-version-externally-managed install_data
+[1.313s] running egg_info
+[1.314s] creating ../../build/my_robot/my_robot.egg-info
+[1.314s] writing ../../build/my_robot/my_robot.egg-info/PKG-INFO
+[1.315s] writing dependency_links to ../../build/my_robot/my_robot.egg-info/dependency_links.txt
+[1.315s] writing entry points to ../../build/my_robot/my_robot.egg-info/entry_points.txt
+[1.315s] writing requirements to ../../build/my_robot/my_robot.egg-info/requires.txt
+[1.315s] writing top-level names to ../../build/my_robot/my_robot.egg-info/top_level.txt
+[1.315s] writing manifest file '../../build/my_robot/my_robot.egg-info/SOURCES.txt'
+[1.318s] reading manifest file '../../build/my_robot/my_robot.egg-info/SOURCES.txt'
+[1.319s] writing manifest file '../../build/my_robot/my_robot.egg-info/SOURCES.txt'
+[1.319s] running build
+[1.319s] running build_py
+[1.319s] creating /home/sherlock/Documents/ros_ws/build/my_robot/build
+[1.319s] creating /home/sherlock/Documents/ros_ws/build/my_robot/build/lib
+[1.319s] creating /home/sherlock/Documents/ros_ws/build/my_robot/build/lib/my_robot
+[1.320s] copying my_robot/__init__.py -> /home/sherlock/Documents/ros_ws/build/my_robot/build/lib/my_robot
+[1.320s] running install
+[1.320s] running install_lib
+[1.321s] creating /home/sherlock/Documents/ros_ws/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.321s] copying /home/sherlock/Documents/ros_ws/build/my_robot/build/lib/my_robot/__init__.py -> /home/sherlock/Documents/ros_ws/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.322s] byte-compiling /home/sherlock/Documents/ros_ws/install/my_robot/lib/python3.10/site-packages/my_robot/__init__.py to __init__.cpython-310.pyc
+[1.322s] running install_data
+[1.322s] creating /home/sherlock/Documents/ros_ws/install/my_robot/share/ament_index
+[1.323s] creating /home/sherlock/Documents/ros_ws/install/my_robot/share/ament_index/resource_index
+[1.323s] creating /home/sherlock/Documents/ros_ws/install/my_robot/share/ament_index/resource_index/packages
+[1.323s] copying resource/my_robot -> /home/sherlock/Documents/ros_ws/install/my_robot/share/ament_index/resource_index/packages
+[1.323s] copying package.xml -> /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot
+[1.323s] running install_egg_info
+[1.325s] Copying ../../build/my_robot/my_robot.egg-info to /home/sherlock/Documents/ros_ws/install/my_robot/lib/python3.10/site-packages/my_robot-0.0.0-py3.10.egg-info
+[1.326s] running install_scripts
+[1.351s] writing list of installed files to '/home/sherlock/Documents/ros_ws/build/my_robot/install.log'
+[1.383s] Invoked command in '/home/sherlock/Documents/ros_ws/src/my_robot' returned '0': PYTHONPATH=/home/sherlock/Documents/ros_ws/build/my_robot/prefix_override:/home/sherlock/Documents/ros_ws/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot build --build-base /home/sherlock/Documents/ros_ws/build/my_robot/build install --record /home/sherlock/Documents/ros_ws/build/my_robot/install.log --single-version-externally-managed install_data

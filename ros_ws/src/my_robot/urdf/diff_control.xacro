@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <gazebo reference="base_link">
+        <material>Gazebo/Blue</material>
+    </gazebo>
+    <gazebo reference="first_wheel">
+        <material>Gazebo/Grey</material>
+    </gazebo>
+    <gazebo reference="second_wheel">
+        <material>Gazebo/Grey</material>
+    </gazebo>
+    <gazebo reference="sphere">
+        <material>Gazebo/Grey</material>
+    </gazebo>
+    <gazebo reference="ray_link">
+      <material>Gazebo/Red</material>
+    </gazebo>
+
+    <gazebo>
+        <plugin name="diff_drive_control" filename="libgazebo_ros_diff_drive.so">
+      
+            <update_rate>50</update_rate>
+      
+    
+            <left_joint>base_second</left_joint>
+            <right_joint>base_first</right_joint>
+      
+            <wheel_separation>0.45</wheel_separation>
+            <wheel_diameter>0.2</wheel_diameter>
+      
+
+            <publish_odom>true</publish_odom>
+            <publish_odom_tf>true</publish_odom_tf>
+            <publish_wheel_tf>true</publish_wheel_tf>
+      
+            <odometry_topic>odom</odometry_topic>
+            <odometry_frame>odom</odometry_frame>
+            <robot_base_frame>base_footprint</robot_base_frame>
+      
+          </plugin>
+    </gazebo>
+    
+</robot>

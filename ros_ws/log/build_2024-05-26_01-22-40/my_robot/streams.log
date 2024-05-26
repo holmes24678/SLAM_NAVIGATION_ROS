@@ -1,0 +1,30 @@
+[0.026s] Invoking command in '/home/sherlock/Documents/ros_ws/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sherlock/Desktop/ros2_ws/install/turtlesim_catch_them_all:/home/sherlock/Desktop/ros2_ws/install/sherlock_package:/home/sherlock/Desktop/ros2_ws/install/my_py_pkg:/home/sherlock/Desktop/ros2_ws/install/my_robot:/opt/ros/humble /usr/bin/cmake --build /home/sherlock/Documents/ros_ws/build/my_robot -- -j4 -l4
+[0.082s] Invoked command in '/home/sherlock/Documents/ros_ws/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sherlock/Desktop/ros2_ws/install/turtlesim_catch_them_all:/home/sherlock/Desktop/ros2_ws/install/sherlock_package:/home/sherlock/Desktop/ros2_ws/install/my_py_pkg:/home/sherlock/Desktop/ros2_ws/install/my_robot:/opt/ros/humble /usr/bin/cmake --build /home/sherlock/Documents/ros_ws/build/my_robot -- -j4 -l4
+[0.122s] Invoking command in '/home/sherlock/Documents/ros_ws/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sherlock/Desktop/ros2_ws/install/turtlesim_catch_them_all:/home/sherlock/Desktop/ros2_ws/install/sherlock_package:/home/sherlock/Desktop/ros2_ws/install/my_py_pkg:/home/sherlock/Desktop/ros2_ws/install/my_robot:/opt/ros/humble /usr/bin/cmake --install /home/sherlock/Documents/ros_ws/build/my_robot
+[0.132s] -- Install configuration: ""
+[0.132s] -- Execute custom install script
+[0.133s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//urdf/common_properties.xacro
+[0.133s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//urdf/data.xacro
+[0.133s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//urdf/diff_control.xacro
+[0.133s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//urdf/laser.xacro
+[0.133s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//urdf/my_robot.urdf.xacro
+[0.134s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//world/my_world.world
+[0.134s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//rviz/config.rviz
+[0.135s] -- Symlinking: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//launch/online_async_launch.py
+[0.147s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot//launch/robot.launch.py
+[0.147s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/ament_index/resource_index/package_run_dependencies/my_robot
+[0.147s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/ament_index/resource_index/parent_prefix_path/my_robot
+[0.148s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/environment/ament_prefix_path.sh
+[0.148s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/environment/ament_prefix_path.dsv
+[0.148s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/environment/path.sh
+[0.149s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/environment/path.dsv
+[0.149s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/local_setup.bash
+[0.149s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/local_setup.sh
+[0.150s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/local_setup.zsh
+[0.150s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/local_setup.dsv
+[0.150s] -- Symlinking: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/package.dsv
+[0.162s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/ament_index/resource_index/packages/my_robot
+[0.163s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/cmake/my_robotConfig.cmake
+[0.163s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/cmake/my_robotConfig-version.cmake
+[0.163s] -- Up-to-date symlink: /home/sherlock/Documents/ros_ws/install/my_robot/share/my_robot/package.xml
+[0.166s] Invoked command in '/home/sherlock/Documents/ros_ws/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sherlock/Desktop/ros2_ws/install/turtlesim_catch_them_all:/home/sherlock/Desktop/ros2_ws/install/sherlock_package:/home/sherlock/Desktop/ros2_ws/install/my_py_pkg:/home/sherlock/Desktop/ros2_ws/install/my_robot:/opt/ros/humble /usr/bin/cmake --install /home/sherlock/Documents/ros_ws/build/my_robot
